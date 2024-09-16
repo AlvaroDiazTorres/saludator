@@ -1,7 +1,16 @@
 # Saludator
 
 ## Descripción
-Una app que saluda y lanza confeti al pulsar un botón.
+Ejercicio de app que saluda y lanza confeti al pulsar un botón.
+
+## Tecnologías
+-  HTML
+- CSS
+- JavaScript (vanilla)
+
+## Deploy en github
+
+https://alvarodiaztorres.github.io/saludator/
 
 ## Etapas
 
